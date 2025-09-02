@@ -1,7 +1,8 @@
 -- SQL Query to create and import data from csv files:
 
 -- 0. Create a database 
-CREATE DATABASE ccdb;
+
+create database ccdb;
 
 -- 1. Create cc_detail table
 
