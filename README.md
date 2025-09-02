@@ -4,7 +4,7 @@
 Credit card usage is one of the most important indicators of consumer spending behavior.
 This project explores credit card transaction data to understand:
 
-How revenue is generated
+- How revenue is generated
 
 Which customer groups contribute the most
 
